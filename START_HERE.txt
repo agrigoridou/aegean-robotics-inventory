@@ -1,0 +1,10 @@
+AEGEAN ROBOTICS SMART INVENTORY 4.2 — ΜΕ LOGIN
+
+1. Αποσυμπίεσε σε νέο φάκελο.
+2. Αν έχεις πραγματικά δεδομένα στην προηγούμενη 4.0/4.0.1, κλείσε τους servers και τρέξε ΠΡΩΤΑ IMPORT_FROM_4_0_1_WINDOWS.bat.
+3. Τρέξε RUN_ME_WINDOWS.bat (εγκατάσταση + δημιουργία πρώτου Administrator).
+4. Άνοιξε http://127.0.0.1:8989 και κάνε login.
+5. Administrator: Από το μενού «Χρήστες» δημιουργείς λογαριασμούς.
+
+ΟΙ ΚΩΔΙΚΟΙ ΔΕΝ ΕΙΝΑΙ ΟΙ ΚΩΔΙΚΟΙ WORDPRESS.
+ΓΙΑ ONLINE ΧΡΗΣΗ: Διάβασε README_LOGIN.md - απαιτείται HTTPS server και security review.
