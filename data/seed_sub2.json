@@ -1,0 +1,3005 @@
+{
+  "source_sheet": "SUB.2 Inventory",
+  "items": [
+    {
+      "sku": "AR-0003",
+      "source_row": 3,
+      "name": "Arduino nano",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0004",
+      "source_row": 4,
+      "name": "Arduino uno",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 36,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0005",
+      "source_row": 5,
+      "name": "Arduino micro",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0006",
+      "source_row": 6,
+      "name": "Arduino duo",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0007",
+      "source_row": 7,
+      "name": "Arduino Leonardo",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0008",
+      "source_row": 8,
+      "name": "LiPad Arduino(wearable)",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0009",
+      "source_row": 9,
+      "name": "Arduino mega",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 9,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0010",
+      "source_row": 10,
+      "name": "Raspberry pi",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0011",
+      "source_row": 11,
+      "name": "Raspberry pi4",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 17,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0012",
+      "source_row": 12,
+      "name": "Raspberry pi5",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0013",
+      "source_row": 13,
+      "name": "PIjuice",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 20,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": "portable power platform for raspberri pi"
+    },
+    {
+      "sku": "AR-0014",
+      "source_row": 14,
+      "name": "Tinker Board(like raspberry pi)",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0015",
+      "source_row": 15,
+      "name": "Banana pi",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0016",
+      "source_row": 16,
+      "name": "Raspberry pico",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 9,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0017",
+      "source_row": 17,
+      "name": "Lollin esp 8266",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 10,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0018",
+      "source_row": 18,
+      "name": "olimex A",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 10,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0019",
+      "source_row": 19,
+      "name": "Arduino 9Axes Motion Shield",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0020",
+      "source_row": 20,
+      "name": "Micro:Bit",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0021",
+      "source_row": 21,
+      "name": "Bitaliano",
+      "category": "Αισθητήρες",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C05-S01",
+      "notes": "powerd by plux"
+    },
+    {
+      "sku": "AR-0022",
+      "source_row": 22,
+      "name": "Led Strip(120m)",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0023",
+      "source_row": 23,
+      "name": "Anker charge brick",
+      "category": "Λοιπά",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0024",
+      "source_row": 24,
+      "name": "Leds(miscellaneous)",
+      "category": "Κάμερες & οθόνες",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0025",
+      "source_row": 25,
+      "name": "1Bit Matrix",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 10,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0026",
+      "source_row": 26,
+      "name": "5inch HDMI LCD",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0027",
+      "source_row": 27,
+      "name": "7inch HDMI LCD",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0028",
+      "source_row": 28,
+      "name": "Low Voltage Buzzer Alarm",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 9,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0029",
+      "source_row": 29,
+      "name": "1602 LCD Matrix(it's a type of screen)",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 8,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0030",
+      "source_row": 30,
+      "name": "Usb Cameras",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 16,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0031",
+      "source_row": 31,
+      "name": "Raspberry pi Camera module 3",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 13,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0032",
+      "source_row": 32,
+      "name": "Raspberry pi Camera module 2",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 13,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0033",
+      "source_row": 33,
+      "name": "Rpi Camera(B)(5 megapixel)",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0034",
+      "source_row": 34,
+      "name": "XBOX Kinect",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0035",
+      "source_row": 35,
+      "name": "Επικοινωνίες-SX1268 433M LoRa HAT",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 16,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0036",
+      "source_row": 36,
+      "name": "Fuse holders",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0037",
+      "source_row": 37,
+      "name": "Ψηφιακή οθόνη βολτόμετρο",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 9,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0039",
+      "source_row": 39,
+      "name": "GPS Module(Gy-gps6mv2)",
+      "category": "Αισθητήρες",
+      "quantity": 10,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0040",
+      "source_row": 40,
+      "name": "Ultrasonic Sensores",
+      "category": "Αισθητήρες",
+      "quantity": 31,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0041",
+      "source_row": 41,
+      "name": "DFRobot RPLIDAR A1M8-R6 - 360 Degree Laser Scanner Development Kit",
+      "category": "Αισθητήρες",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0042",
+      "source_row": 42,
+      "name": "IR sensores(HW-416)",
+      "category": "Αισθητήρες",
+      "quantity": 29,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": "(And Other Models)"
+    },
+    {
+      "sku": "AR-0043",
+      "source_row": 43,
+      "name": "Preasure Sensore(GY-271)",
+      "category": "Αισθητήρες",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0044",
+      "source_row": 44,
+      "name": "IMU",
+      "category": "Αισθητήρες",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": "(G88 10dof, seno252)"
+    },
+    {
+      "sku": "AR-0045",
+      "source_row": 45,
+      "name": "MPU",
+      "category": "Αισθητήρες",
+      "quantity": 14,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": "(GY-521, 6050)"
+    },
+    {
+      "sku": "AR-0046",
+      "source_row": 46,
+      "name": "Sensore and voltage module",
+      "category": "Αισθητήρες",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0047",
+      "source_row": 47,
+      "name": "Temperature Sensores",
+      "category": "Αισθητήρες",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0048",
+      "source_row": 48,
+      "name": "Logic Conventers",
+      "category": "Λοιπά",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0049",
+      "source_row": 49,
+      "name": "Line Sensores",
+      "category": "Αισθητήρες",
+      "quantity": 11,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0050",
+      "source_row": 50,
+      "name": "Colour Sensores",
+      "category": "Αισθητήρες",
+      "quantity": 11,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0051",
+      "source_row": 51,
+      "name": "RFID Sensores",
+      "category": "Αισθητήρες",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0052",
+      "source_row": 52,
+      "name": "Speaker Drives",
+      "category": "Λοιπά",
+      "quantity": 6,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0053",
+      "source_row": 53,
+      "name": "Force Sensores",
+      "category": "Αισθητήρες",
+      "quantity": 11,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0054",
+      "source_row": 54,
+      "name": "Flex Sensores",
+      "category": "Αισθητήρες",
+      "quantity": 7,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0055",
+      "source_row": 55,
+      "name": "BAR Preasure Sensores",
+      "category": "Αισθητήρες",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0056",
+      "source_row": 56,
+      "name": "Teamperature And Humidiry Sensores",
+      "category": "Αισθητήρες",
+      "quantity": 14,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": "(DHT11)"
+    },
+    {
+      "sku": "AR-0057",
+      "source_row": 57,
+      "name": "Humidity Only Sensores",
+      "category": "Αισθητήρες",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": "(HTU2ID)"
+    },
+    {
+      "sku": "AR-0058",
+      "source_row": 58,
+      "name": "Heartrate -Oxigen -Smoke Sensore",
+      "category": "Αισθητήρες",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": "(MAX30105)"
+    },
+    {
+      "sku": "AR-0059",
+      "source_row": 59,
+      "name": "Buzzers",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0060",
+      "source_row": 60,
+      "name": "Light Sensores",
+      "category": "Αισθητήρες",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0061",
+      "source_row": 61,
+      "name": "WAVESHARE Sensore Kit",
+      "category": "Αισθητήρες",
+      "quantity": 10,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": "(Gas,Rotating Sensore,Moisture,Humidity,SoundColour, IR, Flame Sensore, Hall, Lazer, Tilt, Uv"
+    },
+    {
+      "sku": "AR-0062",
+      "source_row": 62,
+      "name": "Adafruit QT Py - SAMD21",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0063",
+      "source_row": 63,
+      "name": "double relay",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 14,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0064",
+      "source_row": 64,
+      "name": "μονό relay",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 9,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0065",
+      "source_row": 65,
+      "name": "τετραπλό relay",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0066",
+      "source_row": 66,
+      "name": "οκταπλό relay",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0067",
+      "source_row": 67,
+      "name": "Large Enclosed Piezo Element - buzzer",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0068",
+      "source_row": 68,
+      "name": "col ai",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": "a usb device that adds an edge tpu to your computer"
+    },
+    {
+      "sku": "AR-0070",
+      "source_row": 70,
+      "name": "step motor 19 Kgr 200 steps/rev",
+      "category": "Κινητήρες & Servo",
+      "quantity": 11,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0071",
+      "source_row": 71,
+      "name": "step motor 9 Kgr x steps/rev 1.8 step angle",
+      "category": "Κινητήρες & Servo",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0072",
+      "source_row": 72,
+      "name": "Criality step motor 4 kgr 1.9 step angle",
+      "category": "Κινητήρες & Servo",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0073",
+      "source_row": 73,
+      "name": "Steper Motor",
+      "category": "Κινητήρες & Servo",
+      "quantity": 9,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": "small Metal"
+    },
+    {
+      "sku": "AR-0074",
+      "source_row": 74,
+      "name": "Αντιστάσεις διαφόρων ειδών",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0075",
+      "source_row": 75,
+      "name": "Πυκνωτές διαφόρων μεγεθών",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0076",
+      "source_row": 76,
+      "name": "power module for drones",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0077",
+      "source_row": 77,
+      "name": "DC-DC STEP DOWN CONVERTER HW-318 V6",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0078",
+      "source_row": 78,
+      "name": "water pressure sensor MS5837-30BA",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0079",
+      "source_row": 79,
+      "name": "LM256 DC-DC HW-411",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0080",
+      "source_row": 80,
+      "name": "Αισθητήρες θερμοκρασίας",
+      "category": "Λοιπά",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C05-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0081",
+      "source_row": 81,
+      "name": "Αδιάβροχοι αισθητήρες led με διακόπτη",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0082",
+      "source_row": 82,
+      "name": "Motor shield for Arduino - L293D",
+      "category": "Κινητήρες & Servo",
+      "quantity": 10,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0083",
+      "source_row": 83,
+      "name": "ανεμιστηράκια",
+      "category": "Λοιπά",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0084",
+      "source_row": 84,
+      "name": "Banana connectors for cables",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": 9,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0085",
+      "source_row": 85,
+      "name": "RC battery checker LiPo battery tester",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0086",
+      "source_row": 86,
+      "name": "DC/Steper Motor HAT Adafruit",
+      "category": "Κινητήρες & Servo",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0087",
+      "source_row": 87,
+      "name": "Arduino CNC shield",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0088",
+      "source_row": 88,
+      "name": "steper motor driver DRV8825",
+      "category": "Κινητήρες & Servo",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0089",
+      "source_row": 89,
+      "name": "L298N Dual H Bridge Steper Motor Drive Board",
+      "category": "Κινητήρες & Servo",
+      "quantity": 14,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0090",
+      "source_row": 90,
+      "name": "Eternet shield for Arduino",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0091",
+      "source_row": 91,
+      "name": "DQ 420MA driver",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0092",
+      "source_row": 92,
+      "name": "Microstep Driver TB6600",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0093",
+      "source_row": 93,
+      "name": "high precision AD/DA board",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0094",
+      "source_row": 94,
+      "name": "proto shield for Arduino Uno",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0095",
+      "source_row": 95,
+      "name": "Adafruit 16-cn PWM/Servo HAT",
+      "category": "Κινητήρες & Servo",
+      "quantity": 8,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0096",
+      "source_row": 96,
+      "name": "microSD shield",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0097",
+      "source_row": 97,
+      "name": "motor shield for raspberry",
+      "category": "Κινητήρες & Servo",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0098",
+      "source_row": 98,
+      "name": "Adafruit LSM6DSOX",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0099",
+      "source_row": 99,
+      "name": "μονάδα τροφοδοσίας DC-DC step down module",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": "one of is LM2596S"
+    },
+    {
+      "sku": "AR-0100",
+      "source_row": 100,
+      "name": "step driver ROB - 12799",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0101",
+      "source_row": 101,
+      "name": "ελεγκτής esp 5266",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0102",
+      "source_row": 102,
+      "name": "μετατροπέας λογικού επιπέδου διπλής κατεύθυνσης",
+      "category": "Λοιπά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0103",
+      "source_row": 103,
+      "name": "ελεγκτές κινητήρων l91105",
+      "category": "Κινητήρες & Servo",
+      "quantity": 12,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0104",
+      "source_row": 104,
+      "name": "wave shield for Arduino",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0105",
+      "source_row": 105,
+      "name": "SparkFun Mydwave led shield",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0106",
+      "source_row": 106,
+      "name": "Gravity BMX160 DFROBOT",
+      "category": "Αισθητήρες",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0107",
+      "source_row": 107,
+      "name": "USB LiPo charger",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": "(1×08-PRT-00000)"
+    },
+    {
+      "sku": "AR-0108",
+      "source_row": 108,
+      "name": "lithium battery charger",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 13,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0109",
+      "source_row": 109,
+      "name": "PM02 V3 125 power module",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0110",
+      "source_row": 110,
+      "name": "100A 75mV FL-2 DC Current Shunt Resistor",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0111",
+      "source_row": 111,
+      "name": "ελεγκτές servo SSC-32",
+      "category": "Κινητήρες & Servo",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0112",
+      "source_row": 112,
+      "name": "piezo sensor mini sensor 100",
+      "category": "Αισθητήρες",
+      "quantity": 11,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0113",
+      "source_row": 113,
+      "name": "Pulse Sensor Heart Rate Sensor",
+      "category": "Αισθητήρες",
+      "quantity": 6,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0114",
+      "source_row": 114,
+      "name": "Waveshare Sound Sensor v2",
+      "category": "Αισθητήρες",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0115",
+      "source_row": 115,
+      "name": "ποντεσιομετρο",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 37,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0116",
+      "source_row": 116,
+      "name": "ποντεσιομετρο fader",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0117",
+      "source_row": 117,
+      "name": "DHT11 Digital Temperature Humidity Sensor Module",
+      "category": "Αισθητήρες",
+      "quantity": 6,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0118",
+      "source_row": 118,
+      "name": "Force sensor FSR-402",
+      "category": "Αισθητήρες",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0119",
+      "source_row": 119,
+      "name": "voice kit by google",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C05-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0120",
+      "source_row": 120,
+      "name": "DC motor L shape",
+      "category": "Κινητήρες & Servo",
+      "quantity": 24,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0121",
+      "source_row": 121,
+      "name": "Small DC motord",
+      "category": "Κινητήρες & Servo",
+      "quantity": 9,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0122",
+      "source_row": 122,
+      "name": "L shape big DC motors",
+      "category": "Κινητήρες & Servo",
+      "quantity": 7,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0123",
+      "source_row": 123,
+      "name": "DC gear motor",
+      "category": "Κινητήρες & Servo",
+      "quantity": 14,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0124",
+      "source_row": 124,
+      "name": "DC gear motor (small)",
+      "category": "Κινητήρες & Servo",
+      "quantity": 13,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0125",
+      "source_row": 125,
+      "name": "DSSERVO 35KG",
+      "category": "Κινητήρες & Servo",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0126",
+      "source_row": 126,
+      "name": "Other DC servos",
+      "category": "Κινητήρες & Servo",
+      "quantity": 26,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0127",
+      "source_row": 127,
+      "name": "Micro Servo MG90S",
+      "category": "Κινητήρες & Servo",
+      "quantity": 51,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": "2.8kg"
+    },
+    {
+      "sku": "AR-0128",
+      "source_row": 128,
+      "name": "Robot Servo  FR0115M",
+      "category": "Κινητήρες & Servo",
+      "quantity": 20,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": "15kg"
+    },
+    {
+      "sku": "AR-0129",
+      "source_row": 129,
+      "name": "Regular servos",
+      "category": "Κινητήρες & Servo",
+      "quantity": 40,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": "9kg"
+    },
+    {
+      "sku": "AR-0130",
+      "source_row": 130,
+      "name": "Servo Hitec HS-425BB",
+      "category": "Κινητήρες & Servo",
+      "quantity": 8,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": "3.3 - 4.10kg"
+    },
+    {
+      "sku": "AR-0131",
+      "source_row": 131,
+      "name": "Servo MG995",
+      "category": "Κινητήρες & Servo",
+      "quantity": 18,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": "11kg"
+    },
+    {
+      "sku": "AR-0132",
+      "source_row": 132,
+      "name": "power hd Servo hd1440a",
+      "category": "Κινητήρες & Servo",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": "0.6kg"
+    },
+    {
+      "sku": "AR-0133",
+      "source_row": 133,
+      "name": "Feetech SCS15 UART Robot Servo",
+      "category": "Κινητήρες & Servo",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": "17kg"
+    },
+    {
+      "sku": "AR-0134",
+      "source_row": 134,
+      "name": "Servo motors",
+      "category": "Κινητήρες & Servo",
+      "quantity": 6,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": "35kg"
+    },
+    {
+      "sku": "AR-0135",
+      "source_row": 135,
+      "name": "Servo Motors",
+      "category": "Κινητήρες & Servo",
+      "quantity": 13,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": "13kg"
+    },
+    {
+      "sku": "AR-0136",
+      "source_row": 136,
+      "name": "Feelech servo FT5330M",
+      "category": "Κινητήρες & Servo",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": null,
+      "notes": "28 - 35 kg"
+    },
+    {
+      "sku": "AR-0137",
+      "source_row": 137,
+      "name": "step motors",
+      "category": "Κινητήρες & Servo",
+      "quantity": 8,
+      "quantity_unknown": false,
+      "location_id": "C05-S04",
+      "notes": "5kg"
+    },
+    {
+      "sku": "AR-0138",
+      "source_row": 138,
+      "name": "τροφοδοτικά",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 10,
+      "quantity_unknown": false,
+      "location_id": "C04-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0139",
+      "source_row": 139,
+      "name": "balance charger",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C04-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0140",
+      "source_row": 140,
+      "name": "Gens ace bashing pro 8000mah",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C04-S04",
+      "notes": "14.8v, 100c 118.4mw,4s2p"
+    },
+    {
+      "sku": "AR-0141",
+      "source_row": 141,
+      "name": "Tattu battery 10000 mah",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C04-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0142",
+      "source_row": 142,
+      "name": "bashing battery 5500mah",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 20,
+      "quantity_unknown": false,
+      "location_id": "C04-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0143",
+      "source_row": 143,
+      "name": "bashing battery 5000 mah",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C04-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0144",
+      "source_row": 144,
+      "name": "bashing battery 6500mah",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C04-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0145",
+      "source_row": 145,
+      "name": "μπαταρίες μολύβδου",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C04-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0146",
+      "source_row": 146,
+      "name": "King max 2200mah",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C04-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0147",
+      "source_row": 147,
+      "name": "Gens 5300",
+      "category": "Λοιπά",
+      "quantity": 10,
+      "quantity_unknown": false,
+      "location_id": "C04-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0148",
+      "source_row": 148,
+      "name": "atten soldering station",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C04-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0149",
+      "source_row": 149,
+      "name": "soldering iron",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 9,
+      "quantity_unknown": false,
+      "location_id": "C04-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0150",
+      "source_row": 150,
+      "name": "glue gun",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 8,
+      "quantity_unknown": false,
+      "location_id": "C04-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0151",
+      "source_row": 151,
+      "name": "solder sucker",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 7,
+      "quantity_unknown": false,
+      "location_id": "C04-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0152",
+      "source_row": 152,
+      "name": "soldering iron stand",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 8,
+      "quantity_unknown": false,
+      "location_id": "C04-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0153",
+      "source_row": 153,
+      "name": "precision screwdriver set",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 10,
+      "quantity_unknown": false,
+      "location_id": "C04-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0154",
+      "source_row": 154,
+      "name": "stripping tool",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C04-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0155",
+      "source_row": 155,
+      "name": "τσιμπίδες και πενσες",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 23,
+      "quantity_unknown": false,
+      "location_id": "C04-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0156",
+      "source_row": 156,
+      "name": "χαρτοκοπτες",
+      "category": "Λοιπά",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C04-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0157",
+      "source_row": 157,
+      "name": "κοπτάκια",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C04-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0158",
+      "source_row": 158,
+      "name": "κατσαβίδια",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C04-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0159",
+      "source_row": 159,
+      "name": "μέτρο",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C04-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0160",
+      "source_row": 160,
+      "name": "digital multimeter",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 8,
+      "quantity_unknown": false,
+      "location_id": "C04-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0161",
+      "source_row": 161,
+      "name": "caliper αναλογικοί",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 7,
+      "quantity_unknown": false,
+      "location_id": "C04-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0162",
+      "source_row": 162,
+      "name": "προστατευτικά γυαλιά",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 17,
+      "quantity_unknown": false,
+      "location_id": "C04-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0163",
+      "source_row": 163,
+      "name": "μάσκες προστασίας",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 7,
+      "quantity_unknown": false,
+      "location_id": "C04-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0164",
+      "source_row": 164,
+      "name": "wie jumper kit διαφόρων μεγεθών",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C04-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0165",
+      "source_row": 165,
+      "name": "μεταλλικά spacer kit",
+      "category": "Αναλώσιμα & Μηχανικά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C04-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0166",
+      "source_row": 166,
+      "name": "hitstring tubes και φλάντζες  kit",
+      "category": "Αναλώσιμα & Μηχανικά",
+      "quantity": 6,
+      "quantity_unknown": false,
+      "location_id": "C04-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0167",
+      "source_row": 167,
+      "name": "cables σε ρολό κουτί",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C04-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0168",
+      "source_row": 168,
+      "name": "ρολό συγκόλλησης πλακέτας κουτί",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C04-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0169",
+      "source_row": 169,
+      "name": "prototype board",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C04-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0170",
+      "source_row": 170,
+      "name": "drill press",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C04-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0171",
+      "source_row": 171,
+      "name": "hardware",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C04-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0172",
+      "source_row": 172,
+      "name": "cables",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0173",
+      "source_row": 173,
+      "name": "jumper cables",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": 22,
+      "quantity_unknown": false,
+      "location_id": "C03-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0174",
+      "source_row": 174,
+      "name": "ORNO bar γείωσης",
+      "category": "Λοιπά",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C03-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0175",
+      "source_row": 175,
+      "name": "breadboard",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": 41,
+      "quantity_unknown": false,
+      "location_id": "C03-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0176",
+      "source_row": 176,
+      "name": "USB C power supply raspberry",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 9,
+      "quantity_unknown": false,
+      "location_id": "C03-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0177",
+      "source_row": 177,
+      "name": "arcade button",
+      "category": "Λοιπά",
+      "quantity": 7,
+      "quantity_unknown": false,
+      "location_id": "C03-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0178",
+      "source_row": 178,
+      "name": "miscellaneous",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0179",
+      "source_row": 179,
+      "name": "blower fan",
+      "category": "Λοιπά",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0180",
+      "source_row": 180,
+      "name": "copper plates",
+      "category": "Λοιπά",
+      "quantity": 6,
+      "quantity_unknown": false,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0181",
+      "source_row": 181,
+      "name": "big copper plate",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0182",
+      "source_row": 182,
+      "name": "διακόπτες",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 18,
+      "quantity_unknown": false,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0183",
+      "source_row": 183,
+      "name": "κουμπιά",
+      "category": "Λοιπά",
+      "quantity": 7,
+      "quantity_unknown": false,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0184",
+      "source_row": 184,
+      "name": "battery holders",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 7,
+      "quantity_unknown": false,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0185",
+      "source_row": 185,
+      "name": "Arduino number pad",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0186",
+      "source_row": 186,
+      "name": "ολοκληρωμένα chip",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0187",
+      "source_row": 187,
+      "name": "USB sound adaptor",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0188",
+      "source_row": 188,
+      "name": "connectors",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0189",
+      "source_row": 189,
+      "name": "transistors",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0190",
+      "source_row": 190,
+      "name": "βισμα για DC",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0191",
+      "source_row": 191,
+      "name": "μετασχηματιστής",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0192",
+      "source_row": 192,
+      "name": "SD cards",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0193",
+      "source_row": 193,
+      "name": "mini HDMI to HDMI",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0194",
+      "source_row": 194,
+      "name": "connectors για UART κ Servo motors",
+      "category": "Κινητήρες & Servo",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0195",
+      "source_row": 195,
+      "name": "hardware για servos",
+      "category": "Κινητήρες & Servo",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0196",
+      "source_row": 196,
+      "name": "σύριγγες με ποτηράκια",
+      "category": "Λοιπά",
+      "quantity": 5,
+      "quantity_unknown": false,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0197",
+      "source_row": 197,
+      "name": "hardware για προπέλες",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0198",
+      "source_row": 198,
+      "name": "υλικά για αδιαβροχοποίηση",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0199",
+      "source_row": 199,
+      "name": "προστασία καλωδίων",
+      "category": "Λοιπά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C03-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0200",
+      "source_row": 200,
+      "name": "καλώδια κροκοδιλακια για τροφοδοτικό",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0201",
+      "source_row": 201,
+      "name": "καλώδια τροφοδοσίας συσκευών",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C03-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0202",
+      "source_row": 202,
+      "name": "παλιά κομμάτια από ηλεκτρονικές συσκευές",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C02-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0203",
+      "source_row": 203,
+      "name": "κομμάτια από παλιό project",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C02-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0204",
+      "source_row": 204,
+      "name": "πληκτρολόγια",
+      "category": "Λοιπά",
+      "quantity": 6,
+      "quantity_unknown": false,
+      "location_id": "C02-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0205",
+      "source_row": 205,
+      "name": "ποντίκια",
+      "category": "Λοιπά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C02-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0206",
+      "source_row": 206,
+      "name": "μπαταρίες",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C02-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0207",
+      "source_row": 207,
+      "name": "φορτιστές μπαταριών",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 12,
+      "quantity_unknown": false,
+      "location_id": "C02-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0208",
+      "source_row": 208,
+      "name": "τροφοδοτικά υπολογιστών",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 8,
+      "quantity_unknown": false,
+      "location_id": "C02-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0209",
+      "source_row": 209,
+      "name": "network switch",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C02-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0210",
+      "source_row": 210,
+      "name": "λάμπες",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C01-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0211",
+      "source_row": 211,
+      "name": "σακουλάκια τροφίμων",
+      "category": "Αναλώσιμα & Μηχανικά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C01-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0212",
+      "source_row": 212,
+      "name": "γράσο πόρτας",
+      "category": "Αναλώσιμα & Μηχανικά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C01-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0213",
+      "source_row": 213,
+      "name": "WD-40",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C01-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0214",
+      "source_row": 214,
+      "name": "ξύδι",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C01-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0215",
+      "source_row": 215,
+      "name": "vikal",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C01-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0216",
+      "source_row": 216,
+      "name": "VR box",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C01-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0217",
+      "source_row": 217,
+      "name": "dremel",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 8,
+      "quantity_unknown": false,
+      "location_id": "C01-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0218",
+      "source_row": 218,
+      "name": "δράπανο κατσαβίδια",
+      "category": "Εργαλεία & Ασφάλεια",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C01-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0219",
+      "source_row": 219,
+      "name": "Στύλας Νικ Κοζάνη",
+      "category": "Λοιπά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C01-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0220",
+      "source_row": 220,
+      "name": "internet things",
+      "category": "Λοιπά",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C01-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0221",
+      "source_row": 221,
+      "name": "Xiaomi camera",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C01-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0222",
+      "source_row": 222,
+      "name": "HDD",
+      "category": "Λοιπά",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C01-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0223",
+      "source_row": 223,
+      "name": "WiFi Smart switch",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 9,
+      "quantity_unknown": false,
+      "location_id": "C01-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0224",
+      "source_row": 224,
+      "name": "sonar sensor",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C06-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0225",
+      "source_row": 225,
+      "name": "ExploreHD 3.0 cemera",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S01",
+      "notes": "RBC-Dwe-01"
+    },
+    {
+      "sku": "AR-0226",
+      "source_row": 226,
+      "name": "Ping360(scaning imaging sonar)",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0227",
+      "source_row": 227,
+      "name": "T200 Truster",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 8,
+      "quantity_unknown": false,
+      "location_id": "C06-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0228",
+      "source_row": 228,
+      "name": "Lumen Subsea Light",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 3,
+      "quantity_unknown": false,
+      "location_id": "C06-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0229",
+      "source_row": 229,
+      "name": "Probe tips",
+      "category": "Λοιπά",
+      "quantity": 20,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": "for sos leak sensore"
+    },
+    {
+      "sku": "AR-0230",
+      "source_row": 230,
+      "name": "Cable repear kit",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0231",
+      "source_row": 231,
+      "name": "Hand moldable plastic coax-seal",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0232",
+      "source_row": 232,
+      "name": "Bar30 sensore",
+      "category": "Αισθητήρες",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0233",
+      "source_row": 233,
+      "name": "Subsea LED indicator, red",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0234",
+      "source_row": 234,
+      "name": "Celsius Sensor",
+      "category": "Αισθητήρες",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0235",
+      "source_row": 235,
+      "name": "WLP plug wrench",
+      "category": "Λοιπά",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": "for 14mm hex size"
+    },
+    {
+      "sku": "AR-0236",
+      "source_row": 236,
+      "name": "Preasure Relief Valve",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0237",
+      "source_row": 237,
+      "name": "WetLink Penetrator Blank M10 thread, no hole",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0238",
+      "source_row": 238,
+      "name": "Silica gel desiccant",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": "moisture indicating"
+    },
+    {
+      "sku": "AR-0239",
+      "source_row": 239,
+      "name": "WetLink Penetrator 6.53.0mm cable M10",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 8,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": "WLP-M10-6.5MM-LC"
+    },
+    {
+      "sku": "AR-0240",
+      "source_row": 240,
+      "name": "Spare Bulkhead o-rings set",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0241",
+      "source_row": 241,
+      "name": "SOS leak sensore",
+      "category": "Αισθητήρες",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": "water leak sensore with multiple probs"
+    },
+    {
+      "sku": "AR-0242",
+      "source_row": 242,
+      "name": "6\" signal tip probe",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0243",
+      "source_row": 243,
+      "name": "Electrical Switch",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C06-S04",
+      "notes": "5A,26VDC,M10x1.5 Tread"
+    },
+    {
+      "sku": "AR-0244",
+      "source_row": 244,
+      "name": "Enclosure end cap",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": "5\" series aluminum, 26xM10,100m"
+    },
+    {
+      "sku": "AR-0245",
+      "source_row": 245,
+      "name": "Enclosure o-ring flange",
+      "category": "Λοιπά",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0246",
+      "source_row": 246,
+      "name": "Watertight enclosure dome",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0247",
+      "source_row": 247,
+      "name": "Ufiber(fiber to ethernet converter)",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0248",
+      "source_row": 248,
+      "name": "μοτέρ αδιάβροχα",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 7,
+      "quantity_unknown": false,
+      "location_id": "C06-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0249",
+      "source_row": 249,
+      "name": "προπέλα καλυψου",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 11,
+      "quantity_unknown": false,
+      "location_id": "C06-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0250",
+      "source_row": 250,
+      "name": "αισθητήρας καλυψου",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0251",
+      "source_row": 251,
+      "name": "miscellaneous Καλυψώ",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C06-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0252",
+      "source_row": 252,
+      "name": "solar charge controller",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0253",
+      "source_row": 253,
+      "name": "oxygen calibration solution",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0254",
+      "source_row": 254,
+      "name": "oxygen calibration probe",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0255",
+      "source_row": 255,
+      "name": "O ring φλάντζες",
+      "category": "Αναλώσιμα & Μηχανικά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C06-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0256",
+      "source_row": 256,
+      "name": "βαζελίνη",
+      "category": "Αναλώσιμα & Μηχανικά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0257",
+      "source_row": 257,
+      "name": "Fiber glass kit",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0258",
+      "source_row": 258,
+      "name": "γράσο",
+      "category": "Αναλώσιμα & Μηχανικά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0259",
+      "source_row": 259,
+      "name": "σπρέι σιλικόνης",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0260",
+      "source_row": 260,
+      "name": "κόλλες και διάφορες ταινίες",
+      "category": "Αναλώσιμα & Μηχανικά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C06-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0261",
+      "source_row": 261,
+      "name": "hardware καλυψου",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C06-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0262",
+      "source_row": 262,
+      "name": "θόλος",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0263",
+      "source_row": 263,
+      "name": "ηλιακό πάνελ",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0264",
+      "source_row": 264,
+      "name": "solar charger(BigBlue)",
+      "category": "Μπαταρίες & φόρτιση",
+      "quantity": 15,
+      "quantity_unknown": false,
+      "location_id": "C06-S03",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0265",
+      "source_row": 265,
+      "name": "threaded rode",
+      "category": "Αναλώσιμα & Μηχανικά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0266",
+      "source_row": 266,
+      "name": "γρανάζια",
+      "category": "Αναλώσιμα & Μηχανικά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0267",
+      "source_row": 267,
+      "name": "faulty box",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C06-S04",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0268",
+      "source_row": 268,
+      "name": "θαλάσσια",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C06-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0269",
+      "source_row": 269,
+      "name": "Μεταλλικη σωληνα",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S05",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0270",
+      "source_row": 270,
+      "name": "Analog dissolved oxygen sensore",
+      "category": "Υποβρύχια & Καλυψώ",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S04",
+      "notes": "raspberri, arduino"
+    },
+    {
+      "sku": "AR-0271",
+      "source_row": 271,
+      "name": "Paste H",
+      "category": "Λοιπά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0272",
+      "source_row": 272,
+      "name": "USB low light cammera",
+      "category": "Κάμερες & οθόνες",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C06-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0273",
+      "source_row": 273,
+      "name": "jumper cables",
+      "category": "Καλώδια & Συνδέσεις",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C07-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0274",
+      "source_row": 274,
+      "name": "raspberry pi 4",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 19,
+      "quantity_unknown": false,
+      "location_id": "C07-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0275",
+      "source_row": 275,
+      "name": "SD cards",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C07-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0276",
+      "source_row": 276,
+      "name": "raspberry power supplies",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 14,
+      "quantity_unknown": false,
+      "location_id": "C07-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0277",
+      "source_row": 277,
+      "name": "micro servo",
+      "category": "Κινητήρες & Servo",
+      "quantity": 15,
+      "quantity_unknown": false,
+      "location_id": "C07-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0278",
+      "source_row": 278,
+      "name": "servo driver hat RPI (PCA 9685)",
+      "category": "Κινητήρες & Servo",
+      "quantity": 4,
+      "quantity_unknown": false,
+      "location_id": "C07-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0279",
+      "source_row": 279,
+      "name": "lshape DC motors",
+      "category": "Κινητήρες & Servo",
+      "quantity": 15,
+      "quantity_unknown": false,
+      "location_id": "C07-S01",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0280",
+      "source_row": 280,
+      "name": "Ρόδες",
+      "category": "Λοιπά",
+      "quantity": null,
+      "quantity_unknown": true,
+      "location_id": "C07-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0281",
+      "source_row": 281,
+      "name": "μόνο ρελέ",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 10,
+      "quantity_unknown": false,
+      "location_id": "C07-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0282",
+      "source_row": 282,
+      "name": "Διπλό ρελέ",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C07-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0283",
+      "source_row": 283,
+      "name": "micro step driver",
+      "category": "Τροφοδοσία & Ηλεκτρονικά",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C07-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0284",
+      "source_row": 284,
+      "name": "stepper motor  wantai",
+      "category": "Κινητήρες & Servo",
+      "quantity": 7,
+      "quantity_unknown": false,
+      "location_id": "C07-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0285",
+      "source_row": 285,
+      "name": "raspberry pi 3",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 10,
+      "quantity_unknown": false,
+      "location_id": "C07-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0286",
+      "source_row": 286,
+      "name": "raspberry pi 0",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 1,
+      "quantity_unknown": false,
+      "location_id": "C07-S02",
+      "notes": ""
+    },
+    {
+      "sku": "AR-0287",
+      "source_row": 287,
+      "name": "raspberry pi 1",
+      "category": "Υπολογιστές & Μικροελεγκτές",
+      "quantity": 2,
+      "quantity_unknown": false,
+      "location_id": "C07-S02",
+      "notes": ""
+    }
+  ],
+  "locations": [
+    {
+      "id": "C01-S01",
+      "cabinet": 1,
+      "slot": 1,
+      "label": "Ντουλάπα 1 · Θέση 1"
+    },
+    {
+      "id": "C01-S02",
+      "cabinet": 1,
+      "slot": 2,
+      "label": "Ντουλάπα 1 · Θέση 2"
+    },
+    {
+      "id": "C01-S03",
+      "cabinet": 1,
+      "slot": 3,
+      "label": "Ντουλάπα 1 · Θέση 3"
+    },
+    {
+      "id": "C02-S01",
+      "cabinet": 2,
+      "slot": 1,
+      "label": "Ντουλάπα 2 · Θέση 1"
+    },
+    {
+      "id": "C02-S02",
+      "cabinet": 2,
+      "slot": 2,
+      "label": "Ντουλάπα 2 · Θέση 2"
+    },
+    {
+      "id": "C02-S03",
+      "cabinet": 2,
+      "slot": 3,
+      "label": "Ντουλάπα 2 · Θέση 3"
+    },
+    {
+      "id": "C02-S04",
+      "cabinet": 2,
+      "slot": 4,
+      "label": "Ντουλάπα 2 · Θέση 4"
+    },
+    {
+      "id": "C03-S01",
+      "cabinet": 3,
+      "slot": 1,
+      "label": "Ντουλάπα 3 · Θέση 1"
+    },
+    {
+      "id": "C03-S02",
+      "cabinet": 3,
+      "slot": 2,
+      "label": "Ντουλάπα 3 · Θέση 2"
+    },
+    {
+      "id": "C03-S03",
+      "cabinet": 3,
+      "slot": 3,
+      "label": "Ντουλάπα 3 · Θέση 3"
+    },
+    {
+      "id": "C03-S04",
+      "cabinet": 3,
+      "slot": 4,
+      "label": "Ντουλάπα 3 · Θέση 4"
+    },
+    {
+      "id": "C04-S01",
+      "cabinet": 4,
+      "slot": 1,
+      "label": "Ντουλάπα 4 · Θέση 1"
+    },
+    {
+      "id": "C04-S02",
+      "cabinet": 4,
+      "slot": 2,
+      "label": "Ντουλάπα 4 · Θέση 2"
+    },
+    {
+      "id": "C04-S03",
+      "cabinet": 4,
+      "slot": 3,
+      "label": "Ντουλάπα 4 · Θέση 3"
+    },
+    {
+      "id": "C04-S04",
+      "cabinet": 4,
+      "slot": 4,
+      "label": "Ντουλάπα 4 · Θέση 4"
+    },
+    {
+      "id": "C04-S05",
+      "cabinet": 4,
+      "slot": 5,
+      "label": "Ντουλάπα 4 · Θέση 5"
+    },
+    {
+      "id": "C05-S01",
+      "cabinet": 5,
+      "slot": 1,
+      "label": "Ντουλάπα 5 · Θέση 1"
+    },
+    {
+      "id": "C05-S02",
+      "cabinet": 5,
+      "slot": 2,
+      "label": "Ντουλάπα 5 · Θέση 2"
+    },
+    {
+      "id": "C05-S03",
+      "cabinet": 5,
+      "slot": 3,
+      "label": "Ντουλάπα 5 · Θέση 3"
+    },
+    {
+      "id": "C05-S04",
+      "cabinet": 5,
+      "slot": 4,
+      "label": "Ντουλάπα 5 · Θέση 4"
+    },
+    {
+      "id": "C05-S05",
+      "cabinet": 5,
+      "slot": 5,
+      "label": "Ντουλάπα 5 · Θέση 5"
+    },
+    {
+      "id": "C06-S01",
+      "cabinet": 6,
+      "slot": 1,
+      "label": "Ντουλάπα 6 · Θέση 1"
+    },
+    {
+      "id": "C06-S02",
+      "cabinet": 6,
+      "slot": 2,
+      "label": "Ντουλάπα 6 · Θέση 2"
+    },
+    {
+      "id": "C06-S03",
+      "cabinet": 6,
+      "slot": 3,
+      "label": "Ντουλάπα 6 · Θέση 3"
+    },
+    {
+      "id": "C06-S04",
+      "cabinet": 6,
+      "slot": 4,
+      "label": "Ντουλάπα 6 · Θέση 4"
+    },
+    {
+      "id": "C06-S05",
+      "cabinet": 6,
+      "slot": 5,
+      "label": "Ντουλάπα 6 · Θέση 5"
+    },
+    {
+      "id": "C07-S01",
+      "cabinet": 7,
+      "slot": 1,
+      "label": "Ντουλάπα 7 · Θέση 1"
+    },
+    {
+      "id": "C07-S02",
+      "cabinet": 7,
+      "slot": 2,
+      "label": "Ντουλάπα 7 · Θέση 2"
+    }
+  ]
+}
