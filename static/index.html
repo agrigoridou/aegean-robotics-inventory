@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="el"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#102436"><title>Aegean Robotics • Gemini Smart Inventory</title>
+<link rel="stylesheet" href="/static/app.css">
+</head><body>
+<div class="shell">
+<aside class="sidebar">
+ <a class="brand" href="/"><span class="brand-mark">AR<span class="brand-dot"></span></span><span><b>AEGEAN ROBOTICS</b><small>SMART LAB · GEMINI AI</small></span></a>
+ <div class="side-label">WORKSPACE</div>
+ <nav id="nav">
+ <button class="navlink active" data-view="find"><span class="navicon">⌕</span><span class="navlabel">Πού είναι;</span></button>
+ <button class="navlink" data-view="inventory"><span class="navicon">▦</span><span class="navlabel">Αποθήκη</span></button>
+ <button class="navlink" data-view="locations"><span class="navicon">▤</span><span class="navlabel">Ντουλάπες</span></button>
+ <button class="navlink" data-view="history"><span class="navicon">↗</span><span class="navlabel">Κινήσεις</span></button>
+ <button class="navlink" data-view="audit"><span class="navicon">◉</span><span class="navlabel">AI Απογραφή</span></button>
+ <button class="navlink" data-view="loans"><span class="navicon">⇄</span><span class="navlabel">Δανεισμοί</span></button>
+ <button class="navlink" data-view="alerts"><span class="navicon">◬</span><span class="navlabel">Ειδοποιήσεις</span></button>
+ <button class="navlink" data-view="assistant"><span class="navicon">✦</span><span class="navlabel">AI Βοηθός</span></button>
+ <button class="navlink" data-view="users" id="usersNav" hidden><span class="navicon">♙</span><span class="navlabel">Χρήστες</span></button>
+ <button class="navlink" data-view="settings"><span class="navicon">⚙</span><span class="navlabel">Ρυθμίσεις</span></button>
+ </nav>
+ <div class="sidebar-bottom"><div class="dot-online"></div><span>Protected inventory</span><small>SUB.2 Inventory</small>
+ <div class="account-pane"><b id="accountName">Σύνδεση…</b><small id="accountRole"></small>
+ <button id="changeMyPassword" class="account-action">Αλλαγή κωδικού</button>
+ <button id="logoutButton" class="account-action">Έξοδος ↗</button></div></div>
+</aside>
+<div class="mainarea">
+ <header class="topbar"><div class="crumb"><span class="crumb-muted">Aegean Robotics</span><span>/</span><b id="crumbCurrent">Πού είναι;</b></div>
+ <div class="top-actions"><button id="photoSearchBtn" class="btn btn-primary">✦ Αναγνώριση με Gemini</button><button id="scanBtn" class="btn btn-outline">▧ QR</button><button id="addItemBtn" class="btn btn-primary">+ Νέο είδος</button><button id="logoutTopButton" class="btn btn-outline" aria-label="Έξοδος">↗</button></div></header>
+ <main>
+ <section class="intro"><div><span class="eyebrow">ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΕΞΟΠΛΙΣΜΟΣ</span><h1 id="viewTitle">Βρες ό,τι χρειάζεσαι</h1><p id="viewSubtitle">Όλα τα εξαρτήματα, οι θέσεις και οι κινήσεις σε ένα σημείο.</p></div><div class="intro-illustration"><div class="mini-qr">▦</div><div><strong>LOOK · FIND · STORE</strong><span>Gemini vision · Smart storage</span></div></div></section>
+ <div id="stats" class="stats"></div>
+ <div id="content"></div>
+ </main>
+ <footer class="footer">AEGEAN ROBOTICS <span>·</span> Gemini Inventory v4.2 · Login <span>·</span> Imported only from SUB.2 Inventory</footer>
+</div>
+</div>
+<div id="drawerOverlay" class="overlay hidden" aria-hidden="true"><aside class="drawer"><div id="drawerContent"></div></aside></div>
+<div id="modalOverlay" class="overlay hidden" aria-hidden="true"><div id="modalContent" class="modal"></div></div>
+<div id="scanOverlay" class="overlay hidden" aria-hidden="true"><div class="scan-dialog"><div class="scan-heading"><b>Σάρωση QR</b><button id="stopScanBtn" class="iconbutton" aria-label="Κλείσιμο">✕</button></div><div class="scanner-viewport"><video id="cameraVideo" playsinline autoplay muted></video><span class="scan-reticle"></span></div><p id="scannerHint">Τοποθέτησε το QR μέσα στο πλαίσιο.</p><p class="muted tiny">Εναλλακτικά άνοιξε την κάμερα του κινητού σου και σκάναρε το QR της ετικέτας.</p><div class="scan-manual"><input id="manualQr" placeholder="AR-0004 ή URL QR"><button id="manualQrBtn" class="btn btn-primary">Άνοιγμα</button></div></div></div>
+<div id="toast" class="toast hidden" role="status"></div>
+<script src="/static/app.js" defer></script>
+<script defer src="/static/features_v4.js"></script></body></html>
